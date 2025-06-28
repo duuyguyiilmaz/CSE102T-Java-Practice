@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Quiz01_20220808704 {
+public class ExampleJava{
     public static void main(String[] args) {
         try {
             Customer burcu = new Customer("Burcu");
