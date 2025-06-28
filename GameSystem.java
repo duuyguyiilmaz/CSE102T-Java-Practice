@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Assignment1 {
+public class GameSystem {
     public static void main(String[] args) {
         Warrior w = new Warrior("DUYGU", 100, 20, 6, 3, 60);
         Mage m = new Mage("GANDALF", 70, 15, 2, 1, 30);
